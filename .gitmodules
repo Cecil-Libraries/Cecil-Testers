@@ -1,0 +1,3 @@
+[submodule "ANSI Utils Tester"]
+	path = ANSI Utils Tester
+	url = https://github.com/Cecil-Libraries/Cecil-Testers
